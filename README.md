@@ -5,21 +5,21 @@ Skeleton loaders give the user a perception that loading has taken a shorter per
 
 ##  Installation
 ```
-npm install react-native-skeleton-loading
+npm install react-native-skeleton-loader
 ```
 
 ## Basic Usage
 After installation, import the package into react native components by
 
 ```
-import SkeletonLoading from react-native-skeleton-loading;
+import SkeletonLoader from react-native-skeleton-loader;
 
-<SkeletonLoading type="square" loading={loading}>
+<SkeletonLoader type="square" loading={loading}>
   <Image
     style={{width: 110, height: 110}}
     source={{uri: 'https://facebook.github.io/react-native/docs/assets/favicon.png'}}
   />
-</SkeletonLoading>
+</SkeletonLoader>
 ```
 The view that should be shown once loaded is wrapped in the skeleton loader!
 

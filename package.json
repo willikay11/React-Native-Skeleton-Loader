@@ -1,10 +1,14 @@
 {
-  "name": "react-native-skeleton-loading",
+  "name": "react-native-skeleton-loader",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/willikay11/React-Native-Skeleton-Loader"
   },
   "keywords": [
     "React",
@@ -13,7 +17,7 @@
     "Loading"
   ],
   "author": "William Kamau",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.54.1"
   }
