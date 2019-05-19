@@ -5,14 +5,14 @@ Skeleton loaders give the user a perception that loading has taken a shorter per
 
 ##  Installation
 ```
-npm install react-native-skeleton-loader
+npm install react-native-skeleton-loader --save
 ```
 
 ## Basic Usage
 After installation, import the package into react native components by
 
 ```
-import SkeletonLoader from react-native-skeleton-loader --save;
+import SkeletonLoader from react-native-skeleton-loader;
 
 <SkeletonLoader type="square" loading={loading}>
   <Image
