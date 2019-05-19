@@ -10,11 +10,15 @@
     "type": "git",
     "url": "github.com/willikay11/React-Native-Skeleton-Loader"
   },
+  "homepage": "https://github.com/willikay11/React-Native-Skeleton-Loader/#readme",
+  "bugs": {
+     "url" : "https://github.com/willikay11/React-Native-Skeleton-Loader/issues",
+    "email" : "willikay11@gmail.com"
+  },
   "keywords": [
-    "React",
-    "Native",
-    "Skeleton",
-    "Loading"
+    "React-Native",
+    "Skeleton loading",
+    "progress"
   ],
   "author": "William Kamau",
   "license": "MIT",
