@@ -12,7 +12,7 @@ npm install react-native-skeleton-loader
 After installation, import the package into react native components by
 
 ```
-import SkeletonLoader from react-native-skeleton-loader;
+import SkeletonLoader from react-native-skeleton-loader --save;
 
 <SkeletonLoader type="square" loading={loading}>
   <Image
