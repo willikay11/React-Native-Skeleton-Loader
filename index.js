@@ -108,7 +108,7 @@ export default class Skeleton extends Component {
   }
 }
 
- Square = (props) => {
+const Square = (props) => {
      if (props.loading) {
          return (
             <View style={{ backgroundColor: props.color, height: props.size, width: props.size }}>
